@@ -1,5 +1,8 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/Suburbanno/Bikcraft/master/Web/img/bikcraft-qualidade.png" width="140" alt="Bikcraft">
+</p>
+<h1 align="center">Bikcraft</h1>
 
-# Bikcraft
 Projeto do curso [ORIGAMID - Web Design Completo](https://www.origamid.com/curso/web-design-completo/)
 
 ## Estrutura de arquivos
