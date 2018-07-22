@@ -1,0 +1,150 @@
+/* Tablets */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+  /* Qualidade Home*/
+  .quality::after {
+  	right: 66px;
+  }
+
+  .list_quality li {
+  	padding: 0 10px;
+  }
+
+  /* Footer */
+  .footer_redes_sociais ul li a {
+  	padding: 6px;
+  }
+
+  .footer_redes_sociais ul li a img {
+    width: 26px;
+    height: 26px;
+  }
+
+  /* Produtos */
+  .produto_item h2, .produto_solo h2 {
+    top: -150px;
+    margin-bottom: -56px;
+  }
+
+  .produto_icone {
+    padding: 41px 0;
+  }
+
+  .produto_info p {
+    font-size: 14px;
+    line-height: 20px;
+    height: 122px;
+    padding: 20px 30px;
+  }
+
+  .produto_info ul li {
+    width: 181px;
+    font-size: 14px;
+  }
+
+}
+
+/* Smartphones */
+@media only screen and (max-width: 767px) {
+
+  /* Header */
+  .header {
+    position: relative;
+    padding-bottom: 0px;
+  }
+
+  .header img {
+    margin: 0 auto 20px auto;
+  }
+
+  .header_menu {
+    text-align: center;
+  }
+
+  .header_menu ul li {
+    margin: 5px;
+  }
+
+  .header_menu ul li a {
+    border: 4px solid #000;
+    width: 136px;
+    display: block;
+    float: left;
+  }
+
+  .header_menu ul li a.menu_active {
+    border-color: #fff;
+  }
+
+  /* Introdução*/
+  .introduction h1 {
+    font-size: 36px;
+  }
+
+  .introduction {
+    margin-top: 0;
+    padding-top: 40px;
+    background: url("../img/responsivo/bg-intro.jpg") no-repeat center;
+  }
+
+  .introduction_internal {
+  	margin-top: 0;
+  }
+
+  /* Sobre */
+  .missao_sobre p {
+    font-size: 16px;
+    padding-right: 0;
+  }
+
+  .missao_sobre ul li {
+    font-size: 16px;
+  }
+
+  /* Call To Action */
+  .call-to-action {
+    padding-top: 10px;
+  }
+
+  /* Qualidade Home*/
+  .quality::after {
+    display: none;
+  }
+
+  /* Produtos */
+  .produto_item h2, .produto_solo h2 {
+    top: -105px;
+    margin-bottom: -68px;
+  }
+
+  .produto_icone {
+    padding: 41px 0;
+    margin-bottom: 80px;
+  }
+
+  .produto_info p {
+    font-size: 14px;
+    line-height: 20px;
+    height: auto;
+    padding: 20px 30px;
+  }
+
+  .produto_info ul li {
+    width: 149px;
+    font-size: 14px;
+  }
+
+  .form {
+    padding-right: 0;
+  }
+
+  .orcamento_dados ul {
+    padding-right: 0;
+  }
+
+  /* Sobre */
+  .contato_form {
+    padding-right: 0;
+    margin-bottom: 40px;
+  }
+
+}
